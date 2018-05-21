@@ -1,5 +1,5 @@
 # Tx-Rx
-TX-RX MAtch Maker
+TX-RX Match Maker
 ================
 
 This is deep learning code to find the Rx interface which is matching the  given Tx interface.
